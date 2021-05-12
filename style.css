@@ -126,11 +126,11 @@ a{
 }
 
 
-.navbar a.right {
+.right {
   float: right;
 }
 
-.navbar a.right-active {
+.right-active {
   float: right;
   color: #A786E9;
 }
@@ -139,6 +139,6 @@ a{
   background-color: #A786E9;
 }
 
-.navbar a.active {
+.active {
   color: #A786E9;
 }
