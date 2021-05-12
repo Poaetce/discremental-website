@@ -130,6 +130,11 @@ a{
   float: right;
 }
 
+.navbar a.right-active {
+  float: right;
+  color: #A786E9;
+}
+
 .navbar a:hover {
   background-color: #A786E9;
 }
