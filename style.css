@@ -68,6 +68,16 @@ h2 {
   margin-right: 15%;
   color: #476D80;
 }
+li{
+  list-style: square;
+  font-size: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40%;
+  margin-right: 15%;
+  color: #476D80;
+  text-align: left;
+}
 #note{
   font-size: 25px;
   color: #A786E9;
