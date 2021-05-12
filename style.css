@@ -125,16 +125,6 @@ a{
   padding-right:25px;
 }
 
-
-.right {
-  float: right;
-}
-
-.right-active {
-  float: right;
-  color: #A786E9;
-}
-
 .navbar a:hover {
   background-color: #A786E9;
 }
