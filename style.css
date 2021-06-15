@@ -83,6 +83,12 @@ li{
   color: #A786E9;
   margin-left: 13%;
   margin-right: 13%;
+  
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 #list{
   text-align: left;
